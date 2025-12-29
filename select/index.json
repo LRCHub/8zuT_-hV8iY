@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "タランチュラ",
+  "base_artist": "ナナホシ管弦楽団",
+  "createdAt": "2025-12-29T14:25:01.089477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "タランチュラ（カラオケ）",
+      "artist": "電気グルーヴ",
+      "has_synced": false,
+      "path": "select/01_タランチュラ(カラオケ)_電気グルーヴ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "タランチュラ（カラオケ）",
+      "artist": "Denki Groove",
+      "has_synced": false,
+      "path": "select/02_タランチュラ(カラオケ)_Denki_Groove.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "タランチュラ",
+      "artist": "ナナホシ管弦楽団",
+      "has_synced": false,
+      "path": "select/pl_01_タランチュラ_ナナホシ管弦楽団.txt"
+    }
+  ]
+}
